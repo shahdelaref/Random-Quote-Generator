@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    font-size: 36px;
+}
+#btn{
+    font-size: 16px;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: #fff;
+}
+#btn:hover{
+    background-color: rgb(28, 103, 16);
+}
